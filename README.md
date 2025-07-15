@@ -18,4 +18,4 @@ This project analyzes sales data for Ferns and Petals to uncover trends, seasona
 - Western region contributed 45% of total sales
 
 ## Preview
-![Dashboard Preview](images/preview1.png)
+![Dashboard Preview](copy.png)
