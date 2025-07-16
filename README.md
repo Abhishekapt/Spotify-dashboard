@@ -1,4 +1,8 @@
 # Spotify Listening Trends Dashboard (2014–2024)
+This project analyzes Spotify listening data from 2014 to 2024 to uncover patterns in music preferences, seasonal trends, and top-performing artists, albums, and tracks.
+
+
+
 ## Tools Used: 
 -Power BI
 -Excel
